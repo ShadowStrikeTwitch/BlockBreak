@@ -1,0 +1,7 @@
+name: BlockBreak
+version: '1.0-SNAPSHOT'
+main: de.vynora.blockBreak.BlockBreak
+api-version: '1.21'
+authors: [ ShadowStrikeYT ]
+description: Minigame
+website: vynora.de
