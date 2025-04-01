@@ -5,3 +5,7 @@ api-version: '1.21'
 authors: [ ShadowStrikeYT ]
 description: Minigame
 website: vynora.de
+commands:
+  startblockbreak:
+    description: Starte das BlockBreak-Spiel
+    usage: /startblockbreak
